@@ -46,15 +46,17 @@
   margin: auto;
   width: 300px;
 }
-ul{
-  background-color: lightcyan;
-}
 ul li{
-  background-color: lightgreen;
+  background-color:linen;
 }
 .title{
   border: 1px solid black;
 }
 .content{
   border: 1px solid blue;
+}
+.btn1{
+  border: 1px solid magenta;
+  background-color:cadetblue;
+  border-radius: 10px;
 }
